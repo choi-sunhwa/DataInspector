@@ -1,0 +1,222 @@
+[
+    {
+        "webid": "3",
+        "title": "345kV 단선도",
+        "alarm": 0,
+        "tree": []
+    },
+    {
+        "webid": "263",
+        "title": "■ 345kV GIS",
+        "alarm": 0,
+        "tree": [
+            {
+                "webid": "264",
+                "title": "GLU #301",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "287",
+                "title": "GLU #302",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "321",
+                "title": "GLU #303",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "343",
+                "title": "GLU #304",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "373",
+                "title": "GLU #306",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "397",
+                "title": "GLU #307",
+                "alarm": 0,
+                "tree": []
+            }
+        ]
+    },
+    {
+        "webid": "433",
+        "title": "■ 345kV M.Tr",
+        "alarm": 0,
+        "tree": [
+            {
+                "webid": "434",
+                "title": "MLU #301A",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "441",
+                "title": "MLU #301B",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "448",
+                "title": "MLU #301C",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "455",
+                "title": "MLU #302A",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "462",
+                "title": "MLU #302B",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "469",
+                "title": "MLU #302C",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "476",
+                "title": "MLU #303A",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "483",
+                "title": "MLU #303B",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "490",
+                "title": "MLU #303C",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "497",
+                "title": "MLU #304A",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "504",
+                "title": "MLU #304B",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "511",
+                "title": "MLU #304C",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "518",
+                "title": "MLU #305A",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "527",
+                "title": "MLU #305B",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "536",
+                "title": "MLU #305C",
+                "alarm": 0,
+                "tree": []
+            }
+        ]
+    },
+    {
+        "webid": "545",
+        "title": "154kV 단선도",
+        "alarm": 0,
+        "tree": []
+    },
+    {
+        "webid": "719",
+        "title": "■ 154kV GIS",
+        "alarm": 0,
+        "tree": [
+            {
+                "webid": "720",
+                "title": "GLU #101",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "742",
+                "title": "GLU #102",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "763",
+                "title": "GLU #103",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "785",
+                "title": "GLU #104",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "804",
+                "title": "GLU #105",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "824",
+                "title": "GLU #106",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "853",
+                "title": "GLU #107",
+                "alarm": 0,
+                "tree": []
+            }
+        ]
+    },
+    {
+        "webid": "878",
+        "title": "■ 154kV M.Tr",
+        "alarm": 0,
+        "tree": [
+            {
+                "webid": "879",
+                "title": "MLU #101",
+                "alarm": 0,
+                "tree": []
+            },
+            {
+                "webid": "891",
+                "title": "MLU #102",
+                "alarm": 0,
+                "tree": []
+            }
+        ]
+    }
+]
